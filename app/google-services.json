@@ -1,0 +1,174 @@
+{
+  "project_info": {
+    "project_number": "351586144883",
+    "firebase_url": "https://sdhack-82d5f.firebaseio.com",
+    "project_id": "sdhack-82d5f",
+    "storage_bucket": "sdhack-82d5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351586144883:android:61ed6cd30e115663",
+        "android_client_info": {
+          "package_name": "com.example.baopham.docusignproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351586144883-gf49gu9t8to5ufo25bemb1eivjugt440.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.baopham.docusignproject",
+            "certificate_hash": "7733541d048dda28e01221f4b9b75c89c9227279"
+          }
+        },
+        {
+          "client_id": "351586144883-jqmdm2kuephc95kffd3iipj3ir3f1soo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXneqSEam9so0TPjHaHXwGPLxQNI1ncIg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351586144883-jqmdm2kuephc95kffd3iipj3ir3f1soo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351586144883:android:1cacff03d5d97464",
+        "android_client_info": {
+          "package_name": "com.example.jhc51.docusignfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351586144883-91phva36d5dsmhta8efre2kbueu1cie6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jhc51.docusignfinal",
+            "certificate_hash": "a40066ac4d8f8074b0c16c72145fc067c6ddbace"
+          }
+        },
+        {
+          "client_id": "351586144883-jqmdm2kuephc95kffd3iipj3ir3f1soo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXneqSEam9so0TPjHaHXwGPLxQNI1ncIg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351586144883-jqmdm2kuephc95kffd3iipj3ir3f1soo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351586144883:android:1f238689ed90ae38",
+        "android_client_info": {
+          "package_name": "com.teamname.docusign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351586144883-jqmdm2kuephc95kffd3iipj3ir3f1soo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXneqSEam9so0TPjHaHXwGPLxQNI1ncIg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351586144883:android:7458cb7e9ac9ddb7",
+        "android_client_info": {
+          "package_name": "docusign.teamname.com.testdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351586144883-vdhiqadn12a1mk578i1r778jgkqmijdc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "docusign.teamname.com.testdb",
+            "certificate_hash": "1c43e4727644ee8f13374c9732162bce402f89f3"
+          }
+        },
+        {
+          "client_id": "351586144883-jqmdm2kuephc95kffd3iipj3ir3f1soo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXneqSEam9so0TPjHaHXwGPLxQNI1ncIg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351586144883-jqmdm2kuephc95kffd3iipj3ir3f1soo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
